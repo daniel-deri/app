@@ -1,8 +1,14 @@
 <!DOCTYPE html><html><head><base target=_blank><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>deri</title><link rel=icon href=static/favicon.ico type=image/x-icon><link href=https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/app.d3a44b698a0eb510f0d545a29348e795.css rel=stylesheet></head><body><div id=app></div><script>function ScreenWidth() {      //获取屏幕尺寸，判断PC端或移动端
         if (/phone|pad|pod|iPhone|iPod|ios|iPad|Android|Fennec|BlackBerry|Mobile|IEMobile|MQQBrowser|JUC|Fennec|WosBrowser|BrowserNG|WebOS|Symbian|Windows Phone/i.test(navigator.userAgent)) {
         //如果是移动端，则跳转到移动端对应的页面；否则，跳转到PC端对应的页面
+            let url  = window.location.href 
+            if(url == 'https://app.deri.finance/#/mining'){
+              window.location.href = 'm.html/#/mining';
+            }else{
               window.location.href = 'm.html';
             }
+        
+          }
         }
         window.onload  = function(){
             ScreenWidth()
