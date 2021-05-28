@@ -7,4 +7,4 @@ cp -R /Users/lihaidong/work/app.deri.finance/build/* ./
 git checkout main
 git add .
 git commit -m 'release'
-git push origin main
+#git push origin main
