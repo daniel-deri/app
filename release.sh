@@ -21,7 +21,6 @@ break
  echo "No"
  break
         ;;
-     *)
  echo "Invalid input..."
  ;;
  esac
