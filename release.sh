@@ -23,5 +23,6 @@ break
         ;;
  *)
  echo "Invalid input..."
+ break
  ;;
  esac
