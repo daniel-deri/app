@@ -19,10 +19,10 @@ break
  ;;
      [nN][oO]|[nN])
  echo "No"
- break
+ exit
         ;;
  *)
  echo "Invalid input..."
- break
+ exit
  ;;
  esac
