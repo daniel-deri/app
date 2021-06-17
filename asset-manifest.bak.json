@@ -13,8 +13,8 @@
     "static/js/4.88dcc299.chunk.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/4.88dcc299.chunk.js",
     "static/js/4.88dcc299.chunk.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/4.88dcc299.chunk.js.map",
     "main.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/main.12b9b84e.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.0df1d6fd.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.0df1d6fd.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.2d01b66b.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.2d01b66b.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.f18d32c4.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.f18d32c4.js.map",
     "static/css/7.a747e6f3.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/7.a747e6f3.chunk.css",
@@ -76,6 +76,6 @@
     "static/css/7.a747e6f3.chunk.css",
     "static/js/7.5532526f.chunk.js",
     "static/css/main.12b9b84e.chunk.css",
-    "static/js/main.0df1d6fd.chunk.js"
+    "static/js/main.2d01b66b.chunk.js"
   ]
 }
