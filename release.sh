@@ -15,7 +15,7 @@ case $input in
     [yY][eE][sS]|[yY])
 echo "git push origin main"
 git push origin main
-break
+exit
  ;;
      [nN][oO]|[nN])
  echo "No"
