@@ -22,10 +22,10 @@
     "static/js/7.48a20ee8.chunk.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/7.48a20ee8.chunk.js",
     "static/js/7.48a20ee8.chunk.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/7.48a20ee8.chunk.js.map",
     "main.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/main.9d6527a6.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.0c4b145d.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.0c4b145d.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.a42026a5.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.a42026a5.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.8a522c6f.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/main.8a522c6f.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.f26259f5.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/runtime-main.f26259f5.js.map",
     "static/css/10.a747e6f3.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/10.a747e6f3.chunk.css",
     "static/js/10.f0377229.chunk.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/10.f0377229.chunk.js",
     "static/js/10.f0377229.chunk.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/10.f0377229.chunk.js.map",
@@ -44,7 +44,7 @@
     "static/css/15.66228d34.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/15.66228d34.chunk.css",
     "static/js/15.3efd6fae.chunk.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/15.3efd6fae.chunk.js",
     "static/js/15.3efd6fae.chunk.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/15.3efd6fae.chunk.js.map",
-    "static/css/16.752470c7.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/16.752470c7.chunk.css",
+    "static/css/16.4ef84a0c.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/16.4ef84a0c.chunk.css",
     "static/js/16.5b388837.chunk.js": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/16.5b388837.chunk.js",
     "static/js/16.5b388837.chunk.js.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/js/16.5b388837.chunk.js.map",
     "static/css/17.2b75e1e6.chunk.css": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/17.2b75e1e6.chunk.css",
@@ -93,7 +93,7 @@
     "static/css/13.30d47639.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/13.30d47639.chunk.css.map",
     "static/css/14.23721148.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/14.23721148.chunk.css.map",
     "static/css/15.66228d34.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/15.66228d34.chunk.css.map",
-    "static/css/16.752470c7.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/16.752470c7.chunk.css.map",
+    "static/css/16.4ef84a0c.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/16.4ef84a0c.chunk.css.map",
     "static/css/17.2b75e1e6.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/17.2b75e1e6.chunk.css.map",
     "static/css/18.608d2d98.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/18.608d2d98.chunk.css.map",
     "static/css/19.9693df09.chunk.css.map": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/css/19.9693df09.chunk.css.map",
@@ -145,10 +145,10 @@
     "static/media/menu.less": "https://cdn.jsdelivr.net/gh/deri-finance/app@main/static/media/wechat.e3793154.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a42026a5.js",
+    "static/js/runtime-main.f26259f5.js",
     "static/css/10.a747e6f3.chunk.css",
     "static/js/10.f0377229.chunk.js",
     "static/css/main.9d6527a6.chunk.css",
-    "static/js/main.0c4b145d.chunk.js"
+    "static/js/main.8a522c6f.chunk.js"
   ]
 }
