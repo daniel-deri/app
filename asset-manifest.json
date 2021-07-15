@@ -24,10 +24,10 @@
     "static/js/8.23a77ca2.chunk.js": "/static/js/8.23a77ca2.chunk.js",
     "static/js/8.23a77ca2.chunk.js.map": "/static/js/8.23a77ca2.chunk.js.map",
     "main.css": "/static/css/main.a68e200c.chunk.css",
-    "main.js": "/static/js/main.7c2cf457.chunk.js",
-    "main.js.map": "/static/js/main.7c2cf457.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f73d79f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f73d79f.js.map",
+    "main.js": "/static/js/main.bc728a5f.chunk.js",
+    "main.js.map": "/static/js/main.bc728a5f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.939bdd71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.939bdd71.js.map",
     "static/css/11.a747e6f3.chunk.css": "/static/css/11.a747e6f3.chunk.css",
     "static/js/11.822295c5.chunk.js": "/static/js/11.822295c5.chunk.js",
     "static/js/11.822295c5.chunk.js.map": "/static/js/11.822295c5.chunk.js.map",
@@ -62,11 +62,11 @@
     "static/js/21.9fbdef72.chunk.js": "/static/js/21.9fbdef72.chunk.js",
     "static/js/21.9fbdef72.chunk.js.map": "/static/js/21.9fbdef72.chunk.js.map",
     "static/css/22.71540496.chunk.css": "/static/css/22.71540496.chunk.css",
-    "static/js/22.b928474c.chunk.js": "/static/js/22.b928474c.chunk.js",
-    "static/js/22.b928474c.chunk.js.map": "/static/js/22.b928474c.chunk.js.map",
+    "static/js/22.f2c4b09e.chunk.js": "/static/js/22.f2c4b09e.chunk.js",
+    "static/js/22.f2c4b09e.chunk.js.map": "/static/js/22.f2c4b09e.chunk.js.map",
     "static/css/23.209fd515.chunk.css": "/static/css/23.209fd515.chunk.css",
-    "static/js/23.426e2b8a.chunk.js": "/static/js/23.426e2b8a.chunk.js",
-    "static/js/23.426e2b8a.chunk.js.map": "/static/js/23.426e2b8a.chunk.js.map",
+    "static/js/23.0aa3a8b2.chunk.js": "/static/js/23.0aa3a8b2.chunk.js",
+    "static/js/23.0aa3a8b2.chunk.js.map": "/static/js/23.0aa3a8b2.chunk.js.map",
     "static/css/24.16533563.chunk.css": "/static/css/24.16533563.chunk.css",
     "static/js/24.210d4013.chunk.js": "/static/js/24.210d4013.chunk.js",
     "static/js/24.210d4013.chunk.js.map": "/static/js/24.210d4013.chunk.js.map",
@@ -181,10 +181,10 @@
     "static/media/team.less": "/static/media/wechat.e3793154.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f73d79f.js",
+    "static/js/runtime-main.939bdd71.js",
     "static/css/11.a747e6f3.chunk.css",
     "static/js/11.822295c5.chunk.js",
     "static/css/main.a68e200c.chunk.css",
-    "static/js/main.7c2cf457.chunk.js"
+    "static/js/main.bc728a5f.chunk.js"
   ]
 }
